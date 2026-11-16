@@ -1,0 +1,4 @@
+part_id,part_name,quantity_in_stock,warehouse_location
+prt-101,Coolant Pump Assembly,4,Houston-Bay-2
+PRT-102,Thermal Sensor E12,0,Houston-Bay-1
+prt-103 ,Heavy Duty Oil Filter,19,Austin-Hub
